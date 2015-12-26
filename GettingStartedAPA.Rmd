@@ -1,0 +1,38 @@
+---
+title: "Getting Started Guide - DC Area Airport Analytics"
+output: md_document
+---
+
+This application has visualizations for DC area airports:   
+- Washington Dulles International (IAD)  
+- Ronald Reagan Washington National (DCA)  
+- Baltimore-Washington International (BWI)
+
+## Visualization 1 - Depature Count by Day for One Year for Selected Airport 
+
+The top panel displays the number of daily departures for the selected airport, along with a regression smoother, for the entire year. The total number of departures for the selected airport for the entire year is dislayed in the visualization title. The radio buttons on the top allows you to select the desired airport. Toggle on the legend to show/hide either the Daily Flights and/or Regression time series. 
+
+## Visualization 2 - Top 10 Destinations for Each Airport
+
+The bottom left panel shows the top ten destinations for each airport for the entire year. Push the legend icon to show/hide the top 10 destinations for each airport. For example, pushing "DCA" and "BWI" will hide those airports and only show destinations for IAD.
+
+## Visualization 3 - Departures by Weekday for Selected Month
+
+The bottom right panel shows the number of departures by day of the week for the selected month. The default month is January. Use the dropdown to select the desired month and the graph will update based on the selection. Push the legend icon to show/hide data for the selected airport. 
+
+## Additional Visualization Interaction Buttons
+
+Each visualization has additional buttons. Hover the mouse near the top of the graph for the following functions:  
+- Download Plot as PGN  
+- Save and edit plot in the cloud  
+- Zoom  
+- Pan  
+- Zoom in  
+- Zoom out  
+- Autoscale  
+- Reset axis  
+- Show closest data on hover  
+- Compare data on hover  
+- Produced with Plotly (link to Ploly website)
+
+

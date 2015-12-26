@@ -1,0 +1,8 @@
+name: DCAirportAnalytics
+account: dsmcintiremd
+server: shinyapps.io
+bundleId: 338911
+url: https://dsmcintiremd.shinyapps.io/DCAirportAnalytics
+when: 1451142442.34839
+asMultiple: FALSE
+asStatic: FALSE
